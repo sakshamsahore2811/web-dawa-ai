@@ -1,3 +1,8 @@
+// Incabution.js
+// Mark this component as a Client Component
+// @react-server
+// use client
+"use client"
 import { useEffect } from 'react';
 import React from 'react';
 import styles from "./style.module.css";
