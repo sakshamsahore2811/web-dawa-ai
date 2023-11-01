@@ -2,7 +2,14 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, run the development server:
+Checkout the repo
+https://github.com/sakshamsahore2811/web-dawa-ai
+
+Install Dependencies
+npm install 
+npm install -g --save
+
+Run the development server:
 
 ```bash
 npm run dev
